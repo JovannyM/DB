@@ -12,6 +12,8 @@ using System.Windows;
 using System.Xml;
 using System.Xml.Linq;
 
+//С первыми изменениями сука!
+
 namespace DB
 {
     enum WhoIs
